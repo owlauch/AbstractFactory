@@ -1,0 +1,11 @@
+main\abstractfactory\CarroPopularFactory.class
+main\abstractfactory\Popular.class
+main\abstractfactory\Ford.class
+main\abstractfactory\main.class
+main\abstractfactory\CarroFactory.class
+main\abstractfactory\Luxo.class
+main\abstractfactory\Variante.class
+main\abstractfactory\FabricaCarro.class
+main\abstractfactory\Ferrari.class
+main\abstractfactory\Carro.class
+main\abstractfactory\CarroLuxoFactory.class
